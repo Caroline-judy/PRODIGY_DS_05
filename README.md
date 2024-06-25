@@ -5,7 +5,9 @@ This project aims to analyze traffic accident data to identify patterns related 
 # Goals
 
 1.Identify Patterns: Analyze how road conditions, weather conditions, and time of day correlate with accident frequency.
+
 2.Visualize Accident Hotspots: Use geographical visualization techniques to pinpoint areas with the highest accident rates.
+
 3.Explore Contributing Factors: Investigate other variables such as driver behavior, speed limits, and visibility to understand their impact on accident occurrence.
 
 # Tools and Technologies
@@ -14,8 +16,11 @@ Data Source: kaggle
 
 # Structure
 Data Cleaning: Preprocess the raw data to handle missing values and outliers.
+
 Exploratory Data Analysis: Visualize distributions and correlations among variables.
+
 Visualization: Create maps and plots to visualize accident hotspots and trends.
+
 Statistical Analysis: Apply statistical methods to validate findings and derive insights.
 
 # Conclusion
